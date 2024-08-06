@@ -11,42 +11,6 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 <br>
 <br/>
-<details>
-	
-  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-	<td><b><a href="#"></a>Projects</b></td>
-        <td><b><a href="#"></a>Summary</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      	<td>
-		<a href="https://github.com/VinayakJha-1/Bengaluru_to_Jharkhand_Migration">
-		<b>Migrants Analysis</b></a>
-	</td>
-      	<td>
-		<a href="https://github.com/VinayakJha-1/Bengaluru_to_Jharkhand_Migration">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha-1&repo=Bengaluru_to_Jharkhand_Migration&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-      <tr>
-	<td>
-		<a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis">
-		<b>Economic Analysis</b></a>
-	</td>
-        <td>
-		<a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha-1&repo=Economic_Impact_Analysis&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
-
 
 <details>
 	
