@@ -14,7 +14,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinayakjhaiiitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakjhaiiitb" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nikita-naik-bab62a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakjhaiiitb" height="30" width="40" /></a>
 </p>
 
 ### 🧰 Languages and Tools
