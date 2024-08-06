@@ -6,7 +6,6 @@
 
 I'm a data guy who likes to dabble into analysis, machine learning, predictions and mostly providing crazy busieness insights.  I love solving real-life social as well as tech problems with data and code.
 - 🔭 I’m currently handling **Data Analyst @ E-Health Research Center**
--  I completed my masters from **IIIT Bangalore**
 - 🌱 I’m currently building **Machine learning models**
 - 📫 How to reach me **naikpnikita28@gmail.com**
 
