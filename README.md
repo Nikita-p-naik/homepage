@@ -12,35 +12,6 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 <br>
 <br/>
 
-<details>
-	
-  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Product Management Projects</b></summary>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-	<td><b><a href="#"></a>Projects</b></td>
-        <td><b><a href="#"></a>Summary</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      	<td>
-		<a href="https://github.com/VinayakJha-1/Product_sales_analaysis">
-		<b>Zee -5 Digital Market Proposition Analysis</b></a>
-	</td>
-      	<td>
-		<a href="https://github.com/VinayakJha-1/Product_sales_analaysis">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha-1&repo=Product_sales_analaysis&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinayakjhaiiitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakjhaiiitb" height="30" width="40" /></a>
